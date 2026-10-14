@@ -1,0 +1,10 @@
+.git
+.venv
+__pycache__
+*.pyc
+.streamlit
+flutter_app/.dart_tool
+flutter_app/.idea
+flutter_app/build
+site
+artifacts/confusion_matrix_*.png
